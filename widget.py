@@ -5,6 +5,7 @@ text.setText(config["text"])
 text.setHexColor(config["color"])
 text.setFont(config["font"])
 text.moveTo(2,25)
+text.centerHorizontally()
 
 def loop():
     pass
