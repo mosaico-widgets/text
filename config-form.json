@@ -5,7 +5,7 @@
     "fields": [
       {
         "text": {
-          "type": "font",
+          "type": "string",
           "label": "Text",
           "required": true,
           "placeholder": "Enter the text you want to be displayed"
@@ -17,7 +17,7 @@
           "placeholder": "Choose the color of the title"
         },
         "font": {
-          "type": "string",
+          "type": "font",
           "label": "Font",
           "required": true,
           "placeholder": "4x6"
