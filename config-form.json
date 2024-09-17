@@ -20,7 +20,7 @@
           "type": "font",
           "label": "Font",
           "required": true,
-          "placeholder": "4x6"
+          "placeholder": "Select a font"
         }
       }
     ]
