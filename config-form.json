@@ -5,7 +5,7 @@
     "fields": [
       {
         "text": {
-          "type": "string",
+          "type": "font",
           "label": "Text",
           "required": true,
           "placeholder": "Enter the text you want to be displayed"
