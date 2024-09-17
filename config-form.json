@@ -21,6 +21,13 @@
           "label": "Font",
           "required": true,
           "placeholder": "Select a font"
+        },
+         "test": {
+          "type": "select",
+          "label": "test",
+          "required": true,
+           "options":["1","2","3"],
+          "placeholder": "Select a test"
         }
       }
     ]
